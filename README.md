@@ -11,9 +11,6 @@ With TIC-80 you get built-in tools for development: code, sprites, maps, sound e
 Games are packaged into a cartridge file, which can be easily distributed. TIC-80 works on all popular platforms. This means your cartridge can be played in any device.
 
 To make a retro styled game, the whole process of creation and execution takes place under some technical limitations: 240x136 pixel display, 16 color palette, 256 8x8 color sprites, 4 channel sound, etc.
-
-![TIC-80](https://github.com/ELPRIV/tic80html/blob/master/build/webapp/index.html)
-
 ### Features
 - Multiple programming languages: [Lua](https://www.lua.org),
   [Moonscript](https://moonscript.org),
