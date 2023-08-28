@@ -1,4 +1,4 @@
-**TIC-80 TINY COMPUTER** - [https://elpriv.github.io/tic80html/index.html](https://elpriv.github.io/tic80html/index.html)
+**TIC-80 TINY COMPUTER** --
 
 # About
 TIC-80 is a **FREE** and **OPEN SOURCE** fantasy computer for making, playing and sharing tiny games.
